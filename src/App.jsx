@@ -24,7 +24,7 @@ let x = createBrowserRouter(
       
   ],
   {
-    basename:"/React-project1"
+    basename:"/React-Project-Routing"
   }
 );
   return (
